@@ -1,0 +1,5 @@
+"Hello world!", "Can you turn dreams into reality",
+"How many psychiatrists does it take to change a light bulb?", "Are you sure you dont need any help?",
+"What is the best present? Broken drums! You can't beat them.", "Your worst enemy is yourself"
+,
+"\"This is a simple quote\"", "\"This is \"a bit\" more \"complicated\" quote\""
